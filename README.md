@@ -11,7 +11,11 @@
 
 👽 git clone https://github.com/mrxvaau/DECODER
 
+👽 python -m pip install --upgrade pip
+
 👽 cd DECODER
+
+👽 pip install -r decode.tools
 
 👽 python3 DECODER.py
 
@@ -20,3 +24,5 @@
 👽 python DECODER.py
 
 👽 T H A N K S
+
+
