@@ -1,8 +1,6 @@
-![20220713_060842](https://user-images.githubusercontent.com/20098740/178622754-5a250a82-341a-436f-8560-b7daee8826e9.jpg)
-![DECODER](https://user-images.githubusercontent.com/20098740/178622571-bc80f758-5d14-4a5d-8381-0b0ac77951e4.gif)
+![DECODER](https://user-images.githubusercontent.com/20098740/180846943-1ebdabef-1d60-4d3b-acfd-daa0202174db.gif)
 ![VERSION308](https://user-images.githubusercontent.com/20098740/178622626-2e75ccc9-5f54-4a4d-9e4f-240f1a93eba7.gif)
-![THISTOOLSREALDEVIS](https://user-images.githubusercontent.com/20098740/178622674-b43e1d59-f80c-40b4-acb2-a4331f963c62.gif)
-
+![20220713_060842](https://user-images.githubusercontent.com/20098740/178622754-5a250a82-341a-436f-8560-b7daee8826e9.jpg)
 👽 apt update && upgrade
 
 👽 pkg install python
@@ -22,6 +20,8 @@
 👽 OR
 
 👽 python DECODER.py
+
+👽 FREE TOOLS !
 
 👽 T H A N K S
 
